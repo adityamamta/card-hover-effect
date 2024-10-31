@@ -1,7 +1,7 @@
 # Card Hover Effects
 ## [View live site here](https://adityamamta.github.io/card-hover-effect/)
 
-###About Card Hover Effects
+### About Card Hover Effects
 - Built using HTML and CSS to enhance the user experience.
 - esponsive card grid layout with animated hover effects.
 - Cards display location-based content and feature a sliding effect on hover.
