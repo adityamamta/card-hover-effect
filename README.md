@@ -1,5 +1,5 @@
 # Card Hover Effects
-## [View live site here](https://adityamamta.github.io/card-hover-effect/)
+## (img/readme-btn.png)](https://adityamamta.github.io/spend-in/)
 ### About Card Hover Effects
 
 - Built using HTML and CSS to enhance the user experience.
