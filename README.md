@@ -8,5 +8,5 @@
 - Mobile-friendly design, adjusting seamlessly across different screen sizes.
 - Smooth Hover Animation: The card details slide up smoothly on hover, enhancing the visual appeal.
 
-- 💼 Contact me on linkedin. [Linkedin](https://www.linkedin.com/in/adityamamta/)
-- adityamamta4@gmail.com
+💼 Contact me on linkedin. [Linkedin](https://www.linkedin.com/in/adityamamta/)
+adityamamta4@gmail.com
