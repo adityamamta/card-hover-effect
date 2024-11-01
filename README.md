@@ -1,5 +1,5 @@
 # Card Hover Effects
-## [![Click to view live website](image/readme-btn.png)](https://adityamamta.github.io/card-hover-effect/)
+## <img src="image/readme-btn.png" alt="Click to view live website" height="200">
 ### About Card Hover Effects
 
 - Built using HTML and CSS to enhance the user experience.
