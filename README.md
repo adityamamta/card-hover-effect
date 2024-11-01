@@ -1,5 +1,5 @@
 # Card Hover Effects
-## <img src="image/readme-btn.png" alt="Click to view live website" height="200">
+## <img src="image/readme-btn.png" alt="Click to view live website" height="120">
 ### About Card Hover Effects
 
 - Built using HTML and CSS to enhance the user experience.
